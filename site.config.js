@@ -6,7 +6,9 @@ const CONFIG = {
     role: "게임 개발자(아직 아니다)",
     bio: "개발하는 재미",
     email: "zkzk1231@gmail.com",
+    linkedin: "",
     github: "https://github.com/WEBAN-HUB",
+    instagram: "",
   },
   projects: [
     {
@@ -18,6 +20,7 @@ const CONFIG = {
   blog: {
     title: "Rokugo-log",
     description: "Rokugo의 블로그에 어서오세요!",
+    theme: "auto",
   },
 
   // CONFIG configration (required)
